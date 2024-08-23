@@ -1,18 +1,4 @@
-<style> 
-    ul{
-        display:Flex;
-        justify-content: space-evenly;
 
-
-    }
-    li{
-        list-style:none;
-    }
-    .git{
-        display:flex;
-        justify-content: space-evenly;
-    }
-</style>
 # <center>Eduardo Freitas da Silva Santos
 
 Sou estudante de Análise e Desenvolvimento de Sistemas, com foco atual em aprimorar minhas habilidades na linguagem Java. Estou dedicando meu tempo ao aprendizado de novos frameworks para expandir minhas capacidades de desenvolvimento e criar soluções mais eficientes e robustas.
