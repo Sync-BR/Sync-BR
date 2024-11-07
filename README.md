@@ -5,7 +5,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, com foco atual em aprim
 
 ## <center>Contato
 
-<ul>
+<ul style="display: flex; flex-direction: row; list-style: none; justify-content: space-around">
     <li><a href="mailto:eduardofreitasfr@gmail.com">
        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
     </a></li>
@@ -18,15 +18,16 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, com foco atual em aprim
 
 </ul>
 
-## <center><Strong>GitHub</String>
-<center>Estaticas em grafico do meu perfil do github
+## <center><Strong>Estaticas em grafico do meu perfil do github</String>
+<center>
 <br>
 <br>
 <br>
 <div class="git"> 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sync-br&layout=compact&bg_color=00000000)
+
 ![Estatísticas do GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=Sync-br&show_icons=true&bg_color=00000000)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sync-br&layout=compact&bg_color=00000000)
 
 <div>
