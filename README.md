@@ -1,36 +1,43 @@
+# Eduardo Freitas da Silva Santos
 
-# <center>Eduardo Freitas da Silva Santos
+Olá! 👋 Sou estudante de **Análise e Desenvolvimento de Sistemas**, com foco atual em aprimorar minhas habilidades na linguagem **Java**. Estou dedicando meu tempo ao aprendizado de novos frameworks para expandir minhas capacidades de desenvolvimento e criar soluções mais eficientes e robustas.
 
-Sou estudante de Análise e Desenvolvimento de Sistemas, com foco atual em aprimorar minhas habilidades na linguagem Java. Estou dedicando meu tempo ao aprendizado de novos frameworks para expandir minhas capacidades de desenvolvimento e criar soluções mais eficientes e robustas.
+---
 
-## <center>Contato
+## 🛠 Tecnologias e Ferramentas
 
-<ul style="display: flex; flex-direction: row; list-style: none; justify-content: space-around">
-    <li><a href="mailto:eduardofreitasfr@gmail.com">
-       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-    </a></li>
-    <li><a href="https://github.com/sync-BR/">
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-    </a></li>
-    <li><a href="https://www.linkedin.com/in/eduardisync/">
-      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-    </a></li>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="Spring" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
+  <img align="center" alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center" alt="GitHub" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+</div>
 
-</ul>
+---
 
-## <center><Strong>Estaticas em grafico do meu perfil do github</String>
-<center>
-<br>
-<br>
-<br>
-<div class="git"> 
+## 📫 Contato
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sync-br&layout=compact&bg_color=00000000)
+<div> 
+  <a href="mailto:eduardofreitasfr@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://github.com/sync-BR/" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/eduardisync/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</div>
 
+---
 
-![Estatísticas do GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=Sync-br&show_icons=true&bg_color=00000000)
+## 🌱 Sobre mim
 
+- 🔭 Atualmente estou focado em projetos pessoais para consolidar meus conhecimentos em Java e Spring Boot.
+- 🌱 Estudando constantemente novas tecnologias e melhores práticas de desenvolvimento.
+- 👯 Estou aberto a colaborações e oportunidades de aprendizado.
+- 📚 Apaixonado por tecnologia e sempre em busca de desafios.
 
+---
 
-
-<div>
+**Obrigado pela visita!** 😄
